@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+}
+
+.leftOverDivs {
+    position: absolute;
+    box-sizing: border-box;
+}
